@@ -1,6 +1,8 @@
-### Hey👋
 
-My name is Gabriel Marques and I am a student of Information Systems at the Federal Institute of Goiás (IFG). Since 2021, I have been working in tech, which has been an incredible and enriching experience. I believe that technology is a constantly evolving field and I am very happy to be part of it.
+Driven by challenges and passionate about technology, I specialize in full-stack development, software architecture, and DevOps. I've worked on building robust applications for the public sector, always focusing on efficiency, scalability, and best practices.
+My main stack includes Angular, TypeScript, Java (Spring), Node.js, and SQL databases, but the real skill is adapting, learning, and delivering smart solutions. On a daily basis, I also work with CI/CD pipelines (Jenkins, GitLab), agile methodologies (Kanban), and UI design (Figma).
+
+Beyond coding, I enjoy optimizing processes, helping teams solve architectural challenges, and ensuring that software is more than just functional—it makes an impact.
 
 [![Linkedin: gabrielmarqso](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmarqso/)](https://www.linkedin.com/in/gabrielmarqso/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCBQVoBV3NKWXg6VAAa3D77A)](https://www.youtube.com/channel/UCBQVoBV3NKWXg6VAAa3D77A)
